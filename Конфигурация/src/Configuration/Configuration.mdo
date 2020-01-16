@@ -30,6 +30,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
   <dataProcessors>DataProcessor.Обработка1</dataProcessors>
   <dataProcessors>DataProcessor.Обработка2</dataProcessors>
   <dataProcessors>DataProcessor.Обработка3</dataProcessors>
