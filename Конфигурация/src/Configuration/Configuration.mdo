@@ -29,6 +29,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
   <dataProcessors>DataProcessor.Обработка1</dataProcessors>
   <dataProcessors>DataProcessor.Обработка2</dataProcessors>
   <dataProcessors>DataProcessor.Обработка3</dataProcessors>
