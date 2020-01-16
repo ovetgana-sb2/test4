@@ -34,4 +34,5 @@
   <dataProcessors>DataProcessor.Обработка3</dataProcessors>
   <dataProcessors>DataProcessor.Обработка5</dataProcessors>
   <dataProcessors>DataProcessor.Обработка4</dataProcessors>
+  <dataProcessors>DataProcessor.Обработка6</dataProcessors>
 </mdclass:Configuration>
