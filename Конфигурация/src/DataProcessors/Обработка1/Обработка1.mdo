@@ -10,4 +10,14 @@
     <value>Обработка1</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.Обработка1.Form.Форма</defaultForm>
+  <forms uuid="66ea7112-247c-4c51-a898-e542ec9ae5f6">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:DataProcessor>
